@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dd9923c-48ac-48fd-bd03-e4d980f2c85b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contactus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/alberto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buffet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/uthappizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -29,7 +35,7 @@
         <counts>
           <entry key="css" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="2" />
+          <entry key="html" value="4" />
           <entry key="json" value="1" />
           <entry key="png" value="1" />
         </counts>
@@ -37,7 +43,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="4" />
           <entry key="Image" value="1" />
           <entry key="JSON" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -46,35 +52,48 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="68" />
-          <entry key="html" value="766" />
-          <entry key="txt" value="22" />
+          <entry key="html" value="1967" />
+          <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="68" />
-          <entry key="HTML" value="766" />
-          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="HTML" value="1967" />
+          <entry key="PLAIN_TEXT" value="39" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aboutus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="102" column="35" lean-forward="true" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
+            <state relative-caret-position="130">
+              <caret line="18" column="115" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="115" />
+              <folding>
+                <element signature="e#5694#5699#0" expanded="true" />
+                <element signature="e#5924#5930#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="77" column="54" selection-start-line="77" selection-start-column="54" selection-end-line="77" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/contactus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="102" column="118" lean-forward="true" selection-start-line="100" selection-start-column="22" selection-end-line="102" selection-end-column="118" />
+            <state relative-caret-position="201">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -125,6 +144,11 @@
       <find>about us</find>
       <find>nav-link</find>
       <find>Tel</find>
+      <find>card</find>
+      <find>ristor</find>
+      <find>form</find>
+      <find>Ristor</find>
+      <find>Risto</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -136,8 +160,9 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/aboutus.html" />
+        <option value="$PROJECT_DIR$/contactus.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -178,6 +203,11 @@
               <item name="1-week" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="1-week" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-week" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -191,7 +221,13 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,7 +252,7 @@
       <option name="presentableId" value="Default" />
       <updated>1535054929997</updated>
       <workItem from="1535054931484" duration="2485000" />
-      <workItem from="1535227284363" duration="5823000" />
+      <workItem from="1535227284363" duration="10352000" />
     </task>
     <task id="LOCAL-00001" summary="navbar and breadcrumbs">
       <created>1535281764200</created>
@@ -225,11 +261,25 @@
       <option name="project" value="LOCAL" />
       <updated>1535281764200</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="icons done">
+      <created>1535283002784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535283002784</updated>
+    </task>
+    <task id="LOCAL-00003" summary="buttons">
+      <created>1535284266298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535284266298</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8308000" />
+    <option name="totallyTimeSpent" value="12837000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -247,7 +297,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -262,7 +312,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="navbar and breadcrumbs" />
-    <option name="LAST_COMMIT_MESSAGE" value="navbar and breadcrumbs" />
+    <MESSAGE value="icons done" />
+    <MESSAGE value="buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="buttons" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -289,17 +341,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/aboutus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="102" column="118" lean-forward="true" selection-start-line="100" selection-start-column="22" selection-end-line="102" selection-end-column="118" />
+        <state relative-caret-position="130">
+          <caret line="18" column="115" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="115" />
+          <folding>
+            <element signature="e#5694#5699#0" expanded="true" />
+            <element signature="e#5924#5930#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aboutus.html">
+    <entry file="file://$PROJECT_DIR$/contactus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="102" column="35" lean-forward="true" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
+        <state relative-caret-position="201">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="77" column="54" selection-start-line="77" selection-start-column="54" selection-end-line="77" selection-end-column="54" />
         </state>
       </provider>
     </entry>
